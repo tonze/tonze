@@ -18,4 +18,4 @@ Built [Fluxiom](https://www.fluxiom.com), one of the first SaaS apps of its kind
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/tonze)
 
-📫 [LinkedIn](https://www.linkedin.com/in/thomaspamminger) • [Twitter/X](https://x.com/tonze)
+📫 [LinkedIn](https://www.linkedin.com/in/thomaspamminger) • [Twitter/X](https://x.com/thomaspamminger)
