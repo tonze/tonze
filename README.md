@@ -7,7 +7,7 @@ Co-founder & CPO at [WeAreDevelopers](https://www.wearedevelopers.com) — leadi
 ### Principles
 - **Value** – Solve real problems. Money tends to follow.  
 - **Focus** – Build only what serves the outcome you defined.  
-- **Care** – Details matter. People feel them.  
+- **Care** – From big decisions to hidden details, it shows.  
 - **Ship** – Perfection is slow motion. Release, learn, repeat.  
 
 ### Background
