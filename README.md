@@ -1,29 +1,29 @@
 # Hi, I'm Thomas 👋
 
-I’m a product leader and co-founder with a background in software development, design, and community building.  
-Currently **Chief Product Officer at [WeAreDevelopers](https://www.wearedevelopers.com)**, where we connect developers and companies through events, content, and community.
+Co-founder & CPO at [WeAreDevelopers](https://www.wearedevelopers.com) — leading product and building hands-on, from AI-first prototypes to shipped features.  
+
+> All in on building and designing products with AI — from features to infrastructure.
 
 ---
 
-### What I do
-- Build **long-term, sustainable products** with a focus on usability and value  
-- Lead **product and engineering teams** in creating tools for developers  
-- Shape experiences for **large-scale tech events** like the WeAreDevelopers World Congress  
+### Principles
+- **Value** – Solve real problems. Money tends to follow.  
+- **Focus** – Build only what serves the outcome you defined.  
+- **Care** – Details matter. People feel them.  
+- **Ship** – Perfection is slow motion. Release, learn, repeat.  
 
 ---
 
-### Tech & Tools I use
-- **Languages & Frameworks:** Ruby, Rails, JavaScript, Tailwind CSS  
-- **Platforms & APIs:** PostgreSQL, OpenAI API, Vimeo API  
-- **Tooling:** GitHub, VS Code, Jira, Confluence  
+### Background
+20+ years building products at the intersection of strategy, design, and technology.  
+Founded [Wollzelle](https://www.wollzelle.com) — created digital products for Gucci, Bulova, and The Grammys.  
+Built [Fluxiom](https://www.fluxiom.com), one of the first SaaS apps of its kind, used by the London Symphony Orchestra, The Met, TNT, Prada, and Steinway.
 
 ---
 
-### Side Interests
-- Exploring AI-driven product features  
-- Endurance cycling & gravel racing  
-- Thoughtful UX and design systems  
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/tonze)
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/thomaspamminger) • [Twitter/X](https://x.com/tonze)
+📫 [LinkedIn](https://www.linkedin.com/in/thomaspamminger) • [Twitter/X](https://x.com/tonze)
