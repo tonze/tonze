@@ -15,7 +15,4 @@ Co-founder & CPO at [WeAreDevelopers](https://www.wearedevelopers.com) — leadi
 Founded [Wollzelle](https://www.wollzelle.com) — created digital products for Gucci, Bulova, and The Grammys.  
 Built [Fluxiom](https://www.fluxiom.com), one of the first SaaS apps of its kind, used by the London Symphony Orchestra, The Met, TNT, Prada, and Steinway.
 
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/tonze)
-
 📫 [LinkedIn](https://www.linkedin.com/in/thomaspamminger) • [Twitter/X](https://x.com/thomaspamminger)
